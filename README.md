@@ -1,0 +1,3 @@
+# Gonig trough Neural Networks: Zero to Hero from Andrej Karpathy(https://karpathy.ai/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=kLqM_OkV6fV9nMgF&amp;list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
