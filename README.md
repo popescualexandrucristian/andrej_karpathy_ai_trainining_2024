@@ -20,4 +20,5 @@
 * The spelled-out intro to neural networks and backpropagation:\
   [the_spelled-out_intro_to_neural_networks_and_backpropagation_building_micrograd.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/the_spelled-out_intro_to_neural_networks_and_backpropagation_building_micrograd.ipynb)
 * The spelled-out intro to language modeling: building makemore:\
-  [building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_01.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_01.ipynb)
+  [building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_01.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_01.ipynb) \
+  [building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_02.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_02.ipynb)
