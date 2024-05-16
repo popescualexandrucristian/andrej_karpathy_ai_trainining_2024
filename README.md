@@ -32,3 +32,4 @@
 
 ## Referenced papers(in Building makemore Part 2: MLP)
 * MLP, following [Bengio et al. 2003](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+* Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification[Kaiming He,Xiangyu Zhang,Shaoqing Ren,Jian Sun 2015](https://arxiv.org/abs/1502.01852)
