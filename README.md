@@ -28,7 +28,7 @@
   [building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_03.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_03.ipynb)
   
 * Building makemore Part 3: Activations & Gradients, BatchNorm: \
-  [building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_04.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_04.ipynb)
+  [building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_04.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_04.ipynb) \
   [building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_05.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_05.ipynb)
 
 ## Referenced papers(in Building makemore Part 2: MLP)
