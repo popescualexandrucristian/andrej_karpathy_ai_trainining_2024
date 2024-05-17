@@ -31,6 +31,9 @@
   [building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_04.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_04.ipynb) \
   [building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_05.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_05.ipynb)
 
+* Building makemore Part 4: Becoming a Backprop Ninja: \
+	[building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_06.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_06.ipynb)
+
 ## Referenced papers(in Building makemore Part 2: MLP)
 * MLP, following \
   [Bengio et al. 2003](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
