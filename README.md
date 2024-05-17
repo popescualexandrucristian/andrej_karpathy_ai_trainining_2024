@@ -35,10 +35,10 @@
 	[building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_06.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_06.ipynb)
 
 ## Referenced papers(in Building makemore Part 2: MLP)
-* MLP, following \
-  [Bengio et al. 2003](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
-* Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification \
-  [Kaiming He,Xiangyu Zhang,Shaoqing Ren,Jian Sun 2015](https://arxiv.org/abs/1502.01852)
+* MLP(2003) \
+  [Yoshua Bengio Réjean, Ducharme DUCHARME, Pascal Vincent, Christian Jauvin](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+* Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification(2015) \
+  [Kaiming He,Xiangyu Zhang,Shaoqing Ren,Jian Sun](https://arxiv.org/abs/1502.01852)
 
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift \
   [Sergey Ioffe, Christian Szegedy](https://arxiv.org/abs/1502.03167)
