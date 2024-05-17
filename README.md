@@ -43,5 +43,8 @@
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift \
   [Sergey Ioffe, Christian Szegedy](https://arxiv.org/abs/1502.03167)
 
-* blog.ezyang.com/2019/05/pytorch-internals \
+* Pytorch Internals \
   [Edward Z. Yang](http://blog.ezyang.com/2019/05/pytorch-internals/)
+
+* Bessel's Correction \
+  [The department of mathematics and computer science Oxford](https://mathcenter.oxford.emory.edu/site/math117/besselCorrection/)
