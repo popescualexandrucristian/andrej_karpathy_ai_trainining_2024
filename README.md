@@ -42,3 +42,6 @@
 
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift \
   [Sergey Ioffe, Christian Szegedy](https://arxiv.org/abs/1502.03167)
+
+* http://blog.ezyang.com/2019/05/pytorch-internals/ \
+  [http://blog.ezyang.com/2019/05/pytorch-internals/](http://blog.ezyang.com/2019/05/pytorch-internals/)
