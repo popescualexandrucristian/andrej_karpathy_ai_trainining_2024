@@ -57,7 +57,7 @@
 * Bessel's Correction \
   [The department of mathematics and computer science Oxford](https://mathcenter.oxford.emory.edu/site/math117/besselCorrection/)
 
-* Dropout: A Simple Way to Prevent Neural Networks from Overfitting
+* Dropout: A Simple Way to Prevent Neural Networks from Overfitting \
   [Journal of Machine Learning Research 15 (2014) 1929-1958 Submitted 11/13; Published 6/14](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)
 
 * The bigram model with cuda support \
@@ -69,5 +69,5 @@
 * Nano GPT \
   [https://github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 
-## Enable cuda on windwows
+## Enable cuda on windwows \
   pip install torch===2.3.1+cu118 torchvision torchaudio -f https://download.pytorch.org/whl/torch_stable.html
