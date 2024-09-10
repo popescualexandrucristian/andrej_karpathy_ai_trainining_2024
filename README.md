@@ -38,8 +38,8 @@
 	[building_makemore/Building_makemore_Part_5_Building_a_WaveNet.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/building_makemore/Building_makemore_Part_5_Building_a_WaveNet.ipynb)
 
 * Let's build GPT: from scratch, in code, spelled out : \
-[Let's%20build%20GPT%20from%20scratch%2C%20in%20code%2C%20spelled%20out.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/Let's%20build%20GPT%20from%20scratch%2C%20in%20code%2C%20spelled%20out.ipynb)
-[bigram.py](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/bigram.py)
+[Let's%20build%20GPT%20from%20scratch%2C%20in%20code%2C%20spelled%20out.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/Let's%20build%20GPT%20from%20scratch%2C%20in%20code%2C%20spelled%20out.ipynb) \
+[bigram.py](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/bigram.py) \
 [gpt.py](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/gpt.py)
 
 ## Referenced papers
