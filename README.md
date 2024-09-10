@@ -38,7 +38,9 @@
 	[building_makemore/Building_makemore_Part_5_Building_a_WaveNet.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/building_makemore/Building_makemore_Part_5_Building_a_WaveNet.ipynb)
 
 * Let's build GPT: from scratch, in code, spelled out : \
-[https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/Let's%20build%20GPT%20from%20scratch%2C%20in%20code%2C%20spelled%20out.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/Let's%20build%20GPT%20from%20scratch%2C%20in%20code%2C%20spelled%20out.ipynb)
+[Let's%20build%20GPT%20from%20scratch%2C%20in%20code%2C%20spelled%20out.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/Let's%20build%20GPT%20from%20scratch%2C%20in%20code%2C%20spelled%20out.ipynb)
+[bigram.py](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/bigram.py)
+[gpt.py](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/gpt.py)
 
 ## Referenced papers
 * MLP(2003) \
@@ -55,5 +57,17 @@
 * Bessel's Correction \
   [The department of mathematics and computer science Oxford](https://mathcenter.oxford.emory.edu/site/math117/besselCorrection/)
 
+* Dropout: A Simple Way to Prevent Neural Networks from Overfitting
+  [Journal of Machine Learning Research 15 (2014) 1929-1958 Submitted 11/13; Published 6/14](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)
+
 * The bigram model with cuda support \
   [https://github.com/karpathy/ng-video-lecture/blob/master/bigram.py](https://github.com/karpathy/ng-video-lecture/blob/master/bigram.py)
+
+* The gpt model with cuda support \
+  [https://github.com/karpathy/ng-video-lecture/blob/master/gpt.py](https://github.com/karpathy/ng-video-lecture/blob/master/gpt.py)
+
+* Nano GPT \
+  [https://github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
+
+## Enable cuda on windwows
+  pip install torch===2.3.1+cu118 torchvision torchaudio -f https://download.pytorch.org/whl/torch_stable.html
