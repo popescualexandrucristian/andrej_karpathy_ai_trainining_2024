@@ -37,7 +37,10 @@
 * Building makemore Part 5: Building a WaveNet : \
 	[building_makemore/Building_makemore_Part_5_Building_a_WaveNet.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/building_makemore/Building_makemore_Part_5_Building_a_WaveNet.ipynb)
 
-## Referenced papers(in Building makemore Part 2: MLP)
+* Let's build GPT: from scratch, in code, spelled out : \
+[https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/Let's%20build%20GPT%20from%20scratch%2C%20in%20code%2C%20spelled%20out.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/Let's%20build%20GPT%20from%20scratch%2C%20in%20code%2C%20spelled%20out.ipynb)
+
+## Referenced papers
 * MLP(2003) \
   [Yoshua Bengio Réjean, Ducharme DUCHARME, Pascal Vincent, Christian Jauvin](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 * Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification(2015) \
@@ -51,3 +54,6 @@
 
 * Bessel's Correction \
   [The department of mathematics and computer science Oxford](https://mathcenter.oxford.emory.edu/site/math117/besselCorrection/)
+
+* The bigram model with cuda support \
+  [https://github.com/karpathy/ng-video-lecture/blob/master/bigram.py](https://github.com/karpathy/ng-video-lecture/blob/master/bigram.py)
