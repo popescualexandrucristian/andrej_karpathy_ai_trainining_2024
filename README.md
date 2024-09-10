@@ -34,6 +34,9 @@
 * Building makemore Part 4: Becoming a Backprop Ninja: \
 	[building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_06.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/master/building_makemore/the_spelled-out_intro_to_language_modeling_building_makemore_06.ipynb)
 
+* Building makemore Part 5: Building a WaveNet : \
+	[building_makemore/Building_makemore_Part_5_Building_a_WaveNet.ipynb](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/building_makemore/Building_makemore_Part_5_Building_a_WaveNet.ipynb)
+
 ## Referenced papers(in Building makemore Part 2: MLP)
 * MLP(2003) \
   [Yoshua Bengio Réjean, Ducharme DUCHARME, Pascal Vincent, Christian Jauvin](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
