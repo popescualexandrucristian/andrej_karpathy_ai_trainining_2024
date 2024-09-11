@@ -72,5 +72,5 @@
 * Language Models are Unsupervised Multitask Learners \
 [https://gwern.net/doc/ai/nn/transformer/gpt/2/2019-radford.pdf](https://gwern.net/doc/ai/nn/transformer/gpt/2/2019-radford.pdf)
 
-## Enable cuda on windwows \
+## Enable cuda
   pip install torch===2.3.1+cu118 torchvision torchaudio -f https://download.pytorch.org/whl/torch_stable.html
