@@ -69,7 +69,7 @@
 * Nano GPT \
   [https://github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 
-* Language Models are Unsupervised Multitask Learners \ 
+* Language Models are Unsupervised Multitask Learners \
 [https://gwern.net/doc/ai/nn/transformer/gpt/2/2019-radford.pdf](https://gwern.net/doc/ai/nn/transformer/gpt/2/2019-radford.pdf)
 
 ## Enable cuda on windwows \
