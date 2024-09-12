@@ -100,5 +100,8 @@ lecture: [https://youtu.be/l8pRSuU81PU?si=MnfD2_DoEfp6pauF](https://youtu.be/l8p
 * Online normalizer calculation for softmax \
   [https://arxiv.org/abs/1805.02867](https://arxiv.org/abs/1805.02867)
 
+* karpathy/llm.c \
+  [https://github.com/karpathy/llm.c](https://github.com/karpathy/llm.c)
+
 ## Enable cuda
   pip install torch===2.3.1+cu118 torchvision torchaudio -f https://download.pytorch.org/whl/torch_stable.html
