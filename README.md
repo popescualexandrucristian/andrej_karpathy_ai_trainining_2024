@@ -90,5 +90,14 @@
 * build nanoGPT \
   [https://github.com/karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt)
 
+* FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness \
+  [https://arxiv.org/abs/2205.14135](https://arxiv.org/abs/2205.14135)
+
+* FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning \
+  [https://arxiv.org/pdf/2307.08691](https://arxiv.org/pdf/2307.08691)
+
+* Online normalizer calculation for softmax \
+  [https://arxiv.org/abs/1805.02867](https://arxiv.org/abs/1805.02867)
+
 ## Enable cuda
   pip install torch===2.3.1+cu118 torchvision torchaudio -f https://download.pytorch.org/whl/torch_stable.html
