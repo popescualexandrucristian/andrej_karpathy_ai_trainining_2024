@@ -42,6 +42,9 @@
 [bigram.py](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/bigram.py) \
 [gpt.py](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/gpt.py)
 
+* Let's reproduce GPT-2 (124M)(this is just a fork of Andrej's repo from when I went troug the exercices) \ 
+[https://github.com/popescualexandrucristian/build-nanogpt](https://github.com/popescualexandrucristian/build-nanogpt)
+
 ## Referenced papers
 * MLP(2003) \
   [Yoshua Bengio Réjean, Ducharme DUCHARME, Pascal Vincent, Christian Jauvin](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
@@ -71,6 +74,21 @@
 
 * Language Models are Unsupervised Multitask Learners \
 [https://gwern.net/doc/ai/nn/transformer/gpt/2/2019-radford.pdf](https://gwern.net/doc/ai/nn/transformer/gpt/2/2019-radford.pdf)
+
+* Automatic Mixed Precision \
+  [https://pytorch.org/tutorials/recipes/recipes/amp_recipe.html](https://pytorch.org/tutorials/recipes/recipes/amp_recipe.html)
+
+* Attention Is All You Need \
+  [https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
+* Language Models are Few-Shot Learners \
+  [https://arxiv.org/abs/2005.14165](https://arxiv.org/abs/2005.14165)
+
+* Using the Output Embedding to Improve Language Models \
+  [https://arxiv.org/abs/1608.05859](https://arxiv.org/abs/1608.05859)
+  
+* build nanoGPT \
+  [https://github.com/karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt)
 
 ## Enable cuda
   pip install torch===2.3.1+cu118 torchvision torchaudio -f https://download.pytorch.org/whl/torch_stable.html
