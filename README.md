@@ -42,7 +42,7 @@
 [bigram.py](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/bigram.py) \
 [gpt.py](https://github.com/popescualexandrucristian/andrej_karpathy_ai_trainining_2024/blob/public/gpt/gpt.py)
 
-* Let's reproduce GPT-2 (124M)(this is just a fork of Andrej's repo from when I went troug the exercices) \ 
+* Let's reproduce GPT-2 (124M)(this is just a fork of Andrej's repo from when I went troug the exercices) \
 [https://github.com/popescualexandrucristian/build-nanogpt](https://github.com/popescualexandrucristian/build-nanogpt) \
 lecture: [https://youtu.be/l8pRSuU81PU?si=MnfD2_DoEfp6pauF](https://youtu.be/l8pRSuU81PU?si=MnfD2_DoEfp6pauF)
 
